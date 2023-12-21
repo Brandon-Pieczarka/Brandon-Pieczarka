@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brandon-Pieczarka
 - 👀 I’m interested in Software Engineering and Game Engine Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me email - brandonornah@Gmail.com
 
